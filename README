@@ -1,0 +1,5 @@
+Ernie Lee - elee36@binghamton.edu
+run server : ./server cert.pem key.pem port
+run client : ./client hostname port
+
+I did stuff the paper told me to.
